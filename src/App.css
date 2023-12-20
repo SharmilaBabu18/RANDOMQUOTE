@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+  background-color: chartreuse;
+  color: blue;
+}
+.btn{
+  background-color: darkgoldenrod;
+  padding: 10px 10px;
+  border-radius: 10px;
+  text-shadow: 5px;
+}
+.button-dark{
+  background-color: black;
+  color: white;
+  
+}
+.button-white{
+  background-color: white;
+  color: black;
+}
